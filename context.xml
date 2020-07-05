@@ -1,0 +1,4 @@
+<ResourceLink name="jdbcMydb"
+              global="jdbcMydb"
+              auth="Container"
+              type="javax.sql.DataSource" />
